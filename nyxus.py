@@ -15,7 +15,7 @@ text = """
 """
 
 option1 = """
-Nuker >> The Invite Code for the nuker is https://discord.com/oauth2/authorize?client_id=1278453727031857204&permissions=8&integration_type=0&scope=bot, Sometimes, The servers will be down, So you may have to host it on your machine, The code for the nuker will be avaliable on github at 
+Nuker >> The Invite Code for the nuker is https://discord.com/oauth2/authorize?client_id=1278453727031857204&permissions=8&integration_type=0&scope=bot, Sometimes, The servers will be down, So you may have to host it on your machine, The code for the nuker will be avaliable on github at https://github.com/sawyerschat/nyxus.py/tree/main
 """
 
 def clear_screen():
