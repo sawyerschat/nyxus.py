@@ -15,3 +15,6 @@ These are all of the used imports, So id suggest installing them for best perfor
 <h2>Part 3 | Using the token</h2>
 <p>Neat the top where it says token = 'MTI3 etc..' Replace the current token with your token, then simply run it from either terminal or vs code (assuming you are using it) and invite the bot, you do need to create your own
 bot invite with oauth</p>
+<h1>Extra</h1>
+<h2>Part 3.5 | Launch nyxus ui</h2>
+<p>Go to the folder that you have all the nyxus stuff in, the README.md file is not neccessary, but you can keep it if you want. At the top where the directory is, simply type python nyxus.py</p>
